@@ -21,11 +21,11 @@ To run the app, simply type "npm start" or "node server.js" in the command line 
 
 [Video walkthrough of Using the App](https://drive.google.com/file/d/18asC8ZewBIQJWJ0StMtqGgC-zsy8cSom/view)
 
-![Usage Screenshot 1](./images/e-commerce-back-end-screenshot1.png?raw=true)
+![Usage Screenshot 1](./images/e-commerce-back-end-screenshot-1.png?raw=true)
 
-![Usage Screenshot 2](./images/e-commerce-back-end-screenshot2.png?raw=true)
+![Usage Screenshot 2](./images/e-commerce-back-end-screenshot-2.png?raw=true)
   
-![Usage Screenshot 2](./images/e-commerce-back-end-screenshot3.png?raw=true)
+![Usage Screenshot 2](./images/e-commerce-back-end-screenshot-3.png?raw=true)
 
 ## Features
 
